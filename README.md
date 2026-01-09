@@ -46,5 +46,11 @@ The dashboard is designed to convert raw data into actionable insights through c
 
 ---
 
+## 🔗 Connect & Explore
+
+💼 **LinkedIn Profile:**  
+👉 https://www.linkedin.com/in/shreya-itkapalle-77957b2a5/
+
+
 ## 🚀 Conclusion
 This dashboard demonstrates strong analytical thinking, visualization best practices, and the ability to convert data into meaningful business insights using Power BI.
